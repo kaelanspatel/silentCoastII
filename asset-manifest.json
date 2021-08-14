@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/silentCoastII/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/silentCoastII/static/js/main.e41fbb6d.chunk.js",
+    "main.js.map": "/silentCoastII/static/js/main.e41fbb6d.chunk.js.map",
+    "runtime-main.js": "/silentCoastII/static/js/runtime-main.204fef45.js",
+    "runtime-main.js.map": "/silentCoastII/static/js/runtime-main.204fef45.js.map",
+    "static/js/2.73cf4752.chunk.js": "/silentCoastII/static/js/2.73cf4752.chunk.js",
+    "static/js/2.73cf4752.chunk.js.map": "/silentCoastII/static/js/2.73cf4752.chunk.js.map",
+    "static/js/3.dee68fa2.chunk.js": "/silentCoastII/static/js/3.dee68fa2.chunk.js",
+    "static/js/3.dee68fa2.chunk.js.map": "/silentCoastII/static/js/3.dee68fa2.chunk.js.map",
+    "index.html": "/silentCoastII/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/silentCoastII/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.73cf4752.chunk.js.LICENSE.txt": "/silentCoastII/static/js/2.73cf4752.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/silentCoastII/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.204fef45.js",
+    "static/js/2.73cf4752.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.e41fbb6d.chunk.js"
+  ]
+}
